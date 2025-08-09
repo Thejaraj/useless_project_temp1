@@ -5,98 +5,86 @@
 
 
 ## Basic Details
-### Team Name: [Zen]
-
+### Team Name: Zen
 
 ### Team Members
-- Team Lead: [Keerthana] - [CUSAT]
-- Member 2: [Theja] - [CUSAT]
-
+- Team Lead: Keerthana - CUSAT
+- Member 2: Theja - CUSAT
 
 ### Project Description
-[2-3 lines about what your project does]
+This is a fun interactive Emoji Movie Guesser game where users enter emojis representing a movie, and the app tries to guess its name from a built-in emoji-to-movie database. It features a colorful animated UI, floating emojis, and special effects like confetti for correct answers.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Apparently, people everywhere are suffering from the inability to communicate movie names without using words—tragic, I know. This app heroically solves that “problem” by letting you speak the universal language of emojis, so you can finally tell your friends you watched Titanic using 🚢💔🌊 instead of boring old letters.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+By building the world’s most unnecessarily fabulous Emoji Movie Guesser—a glittery, animated playground where you type cryptic emoji combos, and our code magically shouts the movie name back at you with confetti, floating popcorn, and way more enthusiasm than anyone asked for.
+
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+**For Software:**
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- **Languages used:** HTML, CSS, JavaScript
+- **Frameworks used:** None (pure HTML/CSS/JS)
+- **Libraries used:** None (custom animations and logic)
+- **Tools used:** Any modern web browser, text/code editor (e.g., VS Code)
+
+**For Hardware:**
+- A standard laptop (and a good imagination)
 
 ### Implementation
-For Software:
-# Installation
-[commands]
+**For Software:**
 
-# Run
-[commands]
+#### Installation
+No installation needed—just clone the repo or download the files.
+
+```bash
+git clone https://github.com/yourusername/emoji-movie-guesser.git
+```
+
+#### Run
+Option 1: Open `index.html` in your favorite web browser.  
+Option 2 (Cool Kid Mode): Run a local server.
+
+```bash
+# Python
+python -m http.server 8000
+
+# Node.js
+npx http-server
+```
 
 ### Project Documentation
-For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+**Screenshots (Add at least 3)**  
+*(Currently running on invisible mode — screenshots to be added later)*  
+- Screenshot 1: Main UI with floating emojis and input box.
+- Screenshot 2: Confetti explosion after a correct guess.
+- Screenshot 3: Sad animation after an incorrect guess.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+**Diagrams**  
+*(Imagination-powered architecture diagram — coming soon)*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+**For Hardware:**  
+Not applicable (unless you count your laptop as hardware).
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+**Video**  
+*(Link coming soon — currently being edited with too many star wipes)*
 
-# Additional Demos
-[Add any extra demo materials/links]
+**Additional Demos**  
+Maybe someday…
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- **Keerthana:** Designed the emoji database, created the floating emoji animation, and added confetti logic that occasionally goes a little too wild.
+- **Theja:** Wrote the JavaScript guessing logic, debugged “emoji misinterpretations,” and made sure 🚀 doesn’t mean “Interstellar” every time.
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
-
-
-
